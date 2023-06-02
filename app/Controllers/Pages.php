@@ -258,7 +258,7 @@ class Pages extends BaseController
             'protocol' => 'smtp',
             'SMTPHost' => 'smtp.googlemail.com',
             'SMTPUser' => 'kharisma19@mhs.akba.ac.id',
-            'SMTPPass' => 'izxyjzjwqgkamkfs',
+            'SMTPPass' => '',
             'SMTPPort' => 465,
             'SMTPCrypto' => 'ssl',
             'mailType' => 'html',
